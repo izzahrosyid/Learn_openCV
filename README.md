@@ -1,2 +1,2 @@
 # learn_OpenCV
- this repo about OpenCV
+ this repository is about OpenCV
